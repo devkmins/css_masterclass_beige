@@ -1,0 +1,19 @@
+@mixin flexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin flexDirectionColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+@mixin imgSize {
+  width: 80%;
+  height: 75%;
+}
+
+@mixin fontSourceSansPro {
+  font-family: "Source Sans Pro", sans-serif;
+}
