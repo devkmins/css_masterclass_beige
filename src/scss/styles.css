@@ -253,6 +253,7 @@ body .main .main__content-fifth .main__content-fifth--containers .main__content-
 body .main .main__content-sixth {
   display: grid;
   grid-template-rows: 5% 80% 15%;
+  height: 525px;
   background-color: #efe4d7;
 }
 body .main .main__content-sixth:hover .main__content-sixth--main span:first-child {
